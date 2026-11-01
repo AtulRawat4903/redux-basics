@@ -1,1 +1,1 @@
-This repository was created to practice the basics of Redux
+This repository was created to practice the basics of ReduxToolkit(RTK)
